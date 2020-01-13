@@ -19,6 +19,10 @@ effectively.
 Tips on all aspects of the project are included here, so make sure to have a
 look through!
 
+> **Note:** Keep in mind that the Ask a Question is not permitted to help while
+> you are building your projects. Use the internet and the resources provided in
+> this document if you get stuck!
+
 ## How to Get Started On a Successful Project Build
 
 1. Read through the project requirements [here][project requirements] carefully
