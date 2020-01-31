@@ -14,7 +14,7 @@ README and tests to structure your work. Instead, you need to design and plan
 your features yourself. These tips should help you plan your project
 effectively.
 
-**Use this document to help you complete [this planning form][planning form]**
+**Use this document to help you plan for your Javascript Project**
 
 Tips on all aspects of the project are included here, so make sure to have a
 look through!
@@ -31,21 +31,20 @@ look through!
 2. Come up with a project idea of your own, and devote some time to a planning
    session. Think about the following:
 
-      a. Brainstorm the problem that you want your application to solve. It's
-      okay to take inspiration for the features you want to build from other
-      sites or projects you've seen (it's not okay to use their code, though).
+   a. Brainstorm the problem that you want your application to solve. It's
+   okay to take inspiration for the features you want to build from other
+   sites or projects you've seen (it's not okay to use their code, though).
 
-      b. Plan what features your app will have. You can write User Stories to
-      help make it clear what you are planning to build.
+   b. Plan what features your app will have. You can write User Stories to
+   help make it clear what you are planning to build.
 
-      c. Model your domain. You need to know what the nouns in your project are
-      - the objects in the 'world' of your application. It can be helpful to
-      draw the relationships between your models.
+   c. Model your domain. You need to know what the nouns in your project are
 
-      d. Plan how your features will work. [Use this form][planning form] to jot
-      down your plans and submit them to us so we can see what you are planning!
-      Check out the sections below on User Story and Flow Diagrams for help in
-      filling out the form.
+   - the objects in the 'world' of your application. It can be helpful to
+     draw the relationships between your models.
+
+   d. Plan how your features will work.
+   Check out the sections below on User Story and Flow Diagrams for help.
 
 3. Create a skeleton app and push to a remote repository on Github.
 
@@ -58,7 +57,7 @@ look through!
    advance of their project review as a way to practice talking through your
    code.
 
-We are here to help!  Each week, there are Open Office Hour [study groups][]
+We are here to help! Each week, there are Open Office Hour [study groups][]
 specifically designed to help with your JavaScript project questions. Also, keep
 an eye out for topic-based JS study groups if you feel shaky on any specific
 concepts.
@@ -108,7 +107,7 @@ corresponding to this domain.
 - How can I avoid unnecessary duplication of actions?
 
 We recommend using [draw.io][] to put together a flow diagram. It doesn’t need
-to be over-complicated  - just a visual idea of your app’s structure.
+to be over-complicated - just a visual idea of your app’s structure.
 
 You don’t have to use software for this - a photo of a (legible) hand-drawn
 sketch on a napkin also works!
@@ -120,6 +119,7 @@ The following GIF shows how to make a shareable link on draw.io:
 **Please make sure the image or file you share with us is accessible.**
 
 ### MVP ASAP
+
 (Minimum Viable Product, As Soon As Possible)
 
 Building things is hard. It's tough to predict what will be difficult in a
@@ -156,7 +156,7 @@ layers involved in one feature before moving on to the next feature. That way,
 you'll minimize rewriting, and end up with working features without waste.
 
 A visual explanation of this suggested development workflow can be found
-[here][SPA planning tips]
+[here][spa planning tips]
 
 ### Summary
 
@@ -190,18 +190,16 @@ The project process should look like:
 - [Remixer][]
 - [Keyboard Karaoke][]
 
-[Beat Machine]: https://beat-machine.com/
-[Bounce Game]: http://bounce-123.s3-website-us-east-1.amazonaws.com/
-[Words With Nerds™]: https://wordswithnerds.herokuapp.com/
-[Remixer]: https://remixer-v2.firebaseapp.com/
-[Keyboard Karaoke]: https://keyboard-karaoke.herokuapp.com/
-
+[beat machine]: https://beat-machine.com/
+[bounce game]: http://bounce-123.s3-website-us-east-1.amazonaws.com/
+[words with nerds™]: https://wordswithnerds.herokuapp.com/
+[remixer]: https://remixer-v2.firebaseapp.com/
+[keyboard karaoke]: https://keyboard-karaoke.herokuapp.com/
 [draw.io]: https://www.draw.io/
-[What To Expect In Your Project Review]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/what-to-expect-in-project-reviews.md
-[Javascript Project Rules of the Road]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/project-rules-of-the-road.md
-[Javascript Project Set-Up Walkthrough]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/setup-walkthrough.md
-[Requirements Checklist]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000#technical-and-complexity-requirements
-[SPA planning tips]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/project-planning-tips.md
-[planning form]: https://forms.gle/DhThw5wtmv3nMKmeA
+[what to expect in your project review]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/what-to-expect-in-project-reviews.md
+[javascript project rules of the road]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/project-rules-of-the-road.md
+[javascript project set-up walkthrough]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/setup-walkthrough.md
+[requirements checklist]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000#technical-and-complexity-requirements
+[spa planning tips]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/project-planning-tips.md
 [project requirements]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000
 [study groups]: https://learn.co/study-group
