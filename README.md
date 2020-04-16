@@ -202,4 +202,4 @@ The project process should look like:
 [requirements checklist]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000#technical-and-complexity-requirements
 [spa planning tips]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/project-planning-tips.md
 [project requirements]: https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000
-[study groups]: https://learn.co/study-group
+[study groups]: https://learn.co/study-groups
